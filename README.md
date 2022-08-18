@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/fgjfr0m0rgjtbh6a/branch/main?svg=true)](https://ci.appveyor.com/project/Plushcake/allure/branch/main)
+
 ## Задача №1 - "Проснулись" (Allure)
 
 В одном из предыдущих проектов [Patterns](https://github.com/netology-code/aqa-homeworks/tree/master/patterns) вы тестировали функциональности заказа карт.
